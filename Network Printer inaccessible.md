@@ -1,5 +1,5 @@
 # Printer Inaccessible 
-## Causes
+## Possible Causes
 1) Cables or wireless connections
 
 2) The latest drivers aren't installed
