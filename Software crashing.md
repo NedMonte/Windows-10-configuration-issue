@@ -1,4 +1,8 @@
 # Software Crashing
+## In detail
+[Article 1](https://www.fortect.com/windows-optimization-tips/system-errors-that-cause-windows-apps-to-crash/?srsltid=AfmBOoqegspoYIefu-pUj9sZbEDlg5655HyK_8UH55_tPKiitoD1zl7C)
+
+[Article 2](https://www.easeus.com/partition-manager-software/computer-keeps-crashing.html?srsltid=AfmBOorv0qA_es-hK2eD8MGKZulHhG9NHsLydDfAtOz_kyE-RlscDdfW)
 ## Possible Causes
 1) Corrupted and missing files
 
