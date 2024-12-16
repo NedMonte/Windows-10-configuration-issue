@@ -1,4 +1,9 @@
 # Long Boot times
+## In detail
+[Article 1](https://www.drivereasy.com/knowledge/4-tips-fix-slow-boot-windows-10-solved/)
+
+[Article 2](https://www.makeuseof.com/tag/windows-10-slow-boot-issues/#:~:text=If%20Windows%20is%20close%20to,its%20own%2C%20causing%20boot%20issues.)
+
 ## Possible Reasons
 1) How many startup programs do you have running? 
 
