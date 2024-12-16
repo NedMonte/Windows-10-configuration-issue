@@ -14,8 +14,7 @@
 ## Solutions
 
 1) Try disabling programs that have a high startup impact in task manager
-(ie. the inventory management, sales tracking and customer order programs you are using), program startup are programs that start 
-running once you open your computer
+(ie. the inventory management, sales tracking and customer order programs you are using), program startup are programs that start automatically running once you open your computer
 
 2) It's possible your machine could use an upgrade. A hard disk drive (HDD) is usually slower than its counter part the SSD.
    An SSD can help speed up the boot time of your computer.It wont be cheap but it will help in the long run
