@@ -1,4 +1,4 @@
-# Printer Inaccessoble 
+# Printer Inaccessible 
 ## Causes
 1) Cables or wireless connections
 
